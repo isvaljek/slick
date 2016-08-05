@@ -1,4 +1,4 @@
-slick
+slicky
 -------
 
 [1]: <https://github.com/kenwheeler/slick>
